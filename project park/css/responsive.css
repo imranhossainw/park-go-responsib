@@ -1,0 +1,247 @@
+@media (max-width: 575.98px) {
+    /* -============ banner part ==================== */
+    .banner_text h1 {
+        width: 100%;
+        font-size: 25px;
+    }
+    .banner_text p {
+        width: 100%;
+        font-size: 12px;
+    }
+    .banner_src {
+        width: 100%;
+        flex-wrap: wrap;
+    }
+    /* -============ Travel Benefit part ==================== */
+    .travel_head h2 {
+        font-size: 20px;
+    }
+    .travel_head p {
+        width: 100%;
+        font-size: 12px;
+    }
+    .travel_item {
+        width: 100%;
+    }
+    .item_text p {
+        width: 100%;
+        font-size: 12px;
+    }
+    /* -============ banner part ==================== */
+    .popular_destination_head h2 {
+        font-size: 20px;
+    }
+    .popular_destination_head p {
+        width: 100%;
+        font-size: 12px;
+    }
+    .populer_slider_img {
+        width: 178px;
+    }
+    .popular_slider_text h3 {
+        font-size: 18px;
+    }
+    .popular_slider_text h3 {
+        font-size: 18px;
+    }
+    .popular_slider_button a {
+        width: 120px;
+        height: 40px;
+        font-size: 14px;
+    }
+    /* -============ banner part ==================== */
+    .common_head h2 {
+        width: 100%;
+        font-size: 23px;
+    }
+    .common_head p {
+        width: 100%;
+        font-size: 12px;
+    }
+    .travel_list ul li p {
+        width: 100%;
+        font-size: 12px;
+    }
+    .travel_button a {
+        width: 155px;
+        height: 50px;
+        font-size: 14px;
+    }
+    /* -============ banner part ==================== */
+    .selected_destination_head .common_head h2 {
+        width: 100%;
+    }
+    .selected_destination_button a {
+        width: 200px;
+        height: 50px;
+        margin: 40px;
+        font-size: 14px;
+    }
+    .common_destination_img {
+        width: 295px;
+    }
+    .common_dots_img {
+        width: 81px;
+        top: 46px;
+        right: 55px;
+    }
+    .destination_search {
+        width: 190px;
+        height: 40px;
+    }
+    .destination_search input::placeholder {
+        font-size: 10px;
+    }
+    .destination_search input {
+        font-size: 12px;
+    }
+    .destination_search_recomand ul li {
+        width: 190px;
+        height: 40px;
+    }
+    .destination_search_recomand ul li p {
+        font-size: 12px;
+        margin-left: 20px;
+    }
+    .destination_search_item {
+        top: 211px;
+        left: 3px;
+    }
+    .destination_search_recomand ul li p span {
+        margin-left: 76px;
+    }
+    .destination_search_recomand ul li p .check2 {
+        margin-left: 56px;
+    }
+    .destination_search_recomand ul li p .check3 {
+        margin-left: 51px;
+    }
+    /* -============ banner part ==================== */
+    .promo_on_img {
+        margin-top: 20px;
+    }
+    .dots_img {
+        width: 90px;
+        top: 153px;
+        left: 47px;
+    }
+    .promo_on_head .common_head h2 {
+        width: 100%;
+        margin-top: 68px;
+    }
+    .promo_on_head .common_head p {
+        width: 100%;
+    }
+    .promo_text_col ul li p {
+        font-size: 9px;
+    }
+    .money_back_guarantee_head .common_head h2 {
+        width: 100%;
+    }
+    .main_accordion {
+        width: 100%;
+    }
+    .accordion-body {
+        width: 100%;
+        font-size: 13px;
+    }
+    .circle {
+        width: 16px;
+        height: 16px;
+    }
+    .accordion-button {
+        font-size: 15px;
+    }
+    .money_back_img {
+        width: 100%;
+    }
+    .money_dots_img {
+        width: 91px;
+        top: 54px;
+        right: 35px;
+    }
+    .travel_counter_card {
+        width: 100%;
+    }
+    #about_us {
+        margin: 10px 0;
+    }
+    .money_back_guarantee_mesege ul .message2 {
+        width: 165px;
+        margin: 11px 0 17px 32px;
+    }
+    .money_back_guarantee_mesege ul .message3 {
+        width: 206px;
+    }
+    .money_back_guarantee_mesege ul li p {
+        font-size: 11px;
+    }
+    .money_back_guarantee_mesege ul li {
+        width: 153px;
+        height: 28px;
+    }
+    .money_back_guarantee_mesege {
+        top: 186px;
+        left: 12px;
+    }
+    .explore_head .common_head h2 {
+        width: 100%;
+    }
+    .explore_head .common_head p {
+        width: 100%;
+    }
+    /* -============ banner part ==================== */
+    .testimonial_head p {
+        width: 100%;
+        font-size: 13px;
+    }
+    .about_head h2 {
+        width: 100%;
+        font-size: 20px;
+    }
+    .about_head p {
+        width: 100%;
+        font-size: 10px;
+    }
+    .Subscribe_button a {
+        width: 108px;
+        height: 60px;
+        font-size: 14px;
+    }
+    .Subscribe {
+        width: 100%;
+        height: 80px;
+    }
+    .Subscribe .input::placeholder {
+        font-size: 10px;
+    }
+    .footer_icon ul {
+        gap: 27px;
+    }
+    .contract ul li a {
+        margin-bottom: 20px;
+    }
+    .nav-tabs .nav-link {
+        margin: 0 30px 10px 0;
+        font-size: 11px;
+    }
+    .tab-content > .active {
+        margin-top: 0;
+    }
+    .mySwiper {
+        padding: 25px 0;
+    }
+    .populer_slider_item2 {
+        padding: 10px 0px 41px 0px;
+        margin: 0;
+    }
+    .popular_slider_img_2 {
+        width: 296px;
+    }
+
+
+
+ }
+@media (min-width: 768px) and (max-width: 1199.98px) { }
+@media (min-width: 768px) and (max-width: 1199.98px) {  }
+@media (min-width: 768px) and (max-width: 1199.98px) {  }
